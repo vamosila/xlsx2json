@@ -1,0 +1,329 @@
+{
+    "100": {
+        "worker_name": "Nombre trabajador 1",
+        "interventions": [
+            {
+                "location": "Nombre ubicación 1",
+                "start": "02/07/2025 23:15",
+                "end": "03/07/2025 00:30",
+                "report_number": "1291/25",
+                "original_duration": "1:15",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "03/07/2025 15:15",
+                "end": "03/07/2025 21:05",
+                "report_number": "1311/25",
+                "original_duration": "5:50",
+                "adjusted_duration": "5:50",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "06/07/2025 04:30",
+                "end": "06/07/2025 05:50",
+                "report_number": "1358/25",
+                "original_duration": "1:20",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "07/07/2025 11:10",
+                "end": "07/07/2025 13:00",
+                "report_number": "1372/25",
+                "original_duration": "1:50",
+                "adjusted_duration": "1:50",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "07/07/2025 14:40",
+                "end": "07/07/2025 16:45",
+                "report_number": "1379/25",
+                "original_duration": "2:05",
+                "adjusted_duration": "2:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "07/07/2025 20:20",
+                "end": "07/07/2025 21:00",
+                "report_number": "1382/25",
+                "original_duration": "0:40",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "08/07/2025 23:15",
+                "end": "09/07/2025 02:30",
+                "report_number": "1397/25",
+                "original_duration": "3:15",
+                "adjusted_duration": "3:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "21/07/2025 20:50",
+                "end": "21/07/2025 21:35",
+                "report_number": "1552/25",
+                "original_duration": "0:45",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "24/07/2025 17:20",
+                "end": "24/07/2025 17:55",
+                "report_number": "1586/25",
+                "original_duration": "0:35",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            }
+        ],
+        "total_adjusted_hours": 19.0
+    },
+    "145": {
+        "worker_name": "Nombre trabajador 2",
+        "interventions": [
+            {
+                "location": "Nombre ubicación 2",
+                "start": "03/07/2025 18:20",
+                "end": "03/07/2025 19:40",
+                "report_number": 1309,
+                "original_duration": "1:20",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "07/07/2025 11:15",
+                "end": "07/07/2025 12:10",
+                "report_number": "1375/25",
+                "original_duration": "0:55",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "08/07/2025 07:45",
+                "end": "08/07/2025 08:30",
+                "report_number": "1401/25",
+                "original_duration": "0:45",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "13/07/2025 15:25",
+                "end": "13/07/2025 19:00",
+                "report_number": "1450/25",
+                "original_duration": "3:35",
+                "adjusted_duration": "3:40",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "16/07/2025 07:30",
+                "end": "16/07/2025 16:30",
+                "report_number": "1482/25",
+                "original_duration": "9:00",
+                "adjusted_duration": "9:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "17/07/2025 20:40",
+                "end": "17/07/2025 21:50",
+                "report_number": "1490/25",
+                "original_duration": "1:10",
+                "adjusted_duration": "1:10",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 2",
+                "start": "28/07/2025 15:45",
+                "end": "28/07/2025 18:25",
+                "report_number": "1660/25",
+                "original_duration": "2:40",
+                "adjusted_duration": "2:40",
+                "consecutive_with_previous": false
+            }
+        ],
+        "total_adjusted_hours": 20.0
+    },
+    "146": {
+        "worker_name": "Nombre trabajador 3",
+        "interventions": [
+            {
+                "location": "Nombre ubicación 3",
+                "start": "03/07/2025 17:15",
+                "end": "04/07/2025 00:30",
+                "report_number": 1303,
+                "original_duration": "7:15",
+                "adjusted_duration": "7:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 3",
+                "start": "05/07/2025 09:00",
+                "end": "05/07/2025 12:30",
+                "report_number": "1343/25",
+                "original_duration": "3:30",
+                "adjusted_duration": "3:30",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 3",
+                "start": "05/07/2025 12:30",
+                "end": "05/07/2025 13:25",
+                "report_number": "1345/25 Y 1346/25",
+                "original_duration": "0:55",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": true
+            }
+        ],
+        "total_adjusted_hours": 12.0
+    },
+    "156": {
+        "worker_name": "Nombre trabajador 4",
+        "interventions": [
+            {
+                "location": "Nombre ubicación 1",
+                "start": "09/07/2025 19:20",
+                "end": "09/07/2025 20:05",
+                "report_number": 1408,
+                "original_duration": "0:45",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "19/07/2025 16:30",
+                "end": "19/07/2025 17:30",
+                "report_number": 1521,
+                "original_duration": "1:00",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "22/07/2025 17:35",
+                "end": "22/07/2025 18:40",
+                "report_number": 1565,
+                "original_duration": "1:05",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "27/07/2025 11:30",
+                "end": "27/07/2025 12:35",
+                "report_number": 1632,
+                "original_duration": "1:05",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "27/07/2025 18:40",
+                "end": "27/07/2025 19:30",
+                "report_number": 1639,
+                "original_duration": "0:50",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 1",
+                "start": "28/07/2025 19:10",
+                "end": "28/07/2025 20:15",
+                "report_number": 1661,
+                "original_duration": "1:05",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            }
+        ],
+        "total_adjusted_hours": 6.0
+    },
+    "280": {
+        "worker_name": "Nombre trabajador 5",
+        "interventions": [
+            {
+                "location": "Nombre ubicación 4",
+                "start": "08/07/2025 15:25",
+                "end": "08/07/2025 17:25",
+                "report_number": "1389/25",
+                "original_duration": "2:00",
+                "adjusted_duration": "2:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "11/07/2025 21:45",
+                "end": "11/07/2025 23:10",
+                "report_number": "1429/25",
+                "original_duration": "1:25",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "11/07/2025 23:20",
+                "end": "12/07/2025 01:45",
+                "report_number": "1430/25",
+                "original_duration": "2:25",
+                "adjusted_duration": "2:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "18/07/2025 17:50",
+                "end": "18/07/2025 19:15",
+                "report_number": "1504/25",
+                "original_duration": "1:25",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "21/07/2025 12:35",
+                "end": "21/07/2025 14:45",
+                "report_number": "1545, 1549",
+                "original_duration": "2:10",
+                "adjusted_duration": "2:10",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "21/07/2025 14:50",
+                "end": "21/07/2025 15:35",
+                "report_number": 1550,
+                "original_duration": "0:45",
+                "adjusted_duration": "1:00",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "25/07/2025 15:25",
+                "end": "25/07/2025 17:35",
+                "report_number": "1594/25",
+                "original_duration": "2:10",
+                "adjusted_duration": "2:10",
+                "consecutive_with_previous": false
+            },
+            {
+                "location": "Nombre ubicación 4",
+                "start": "26/07/2025 20:15",
+                "end": "26/07/2025 21:30",
+                "report_number": "1619/25",
+                "original_duration": "1:15",
+                "adjusted_duration": "1:20",
+                "consecutive_with_previous": false
+            }
+        ],
+        "total_adjusted_hours": 14.0
+    }
+}

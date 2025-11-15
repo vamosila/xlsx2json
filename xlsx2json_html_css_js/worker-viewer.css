@@ -1,0 +1,57 @@
+/*
+Filename: worker-viewer.css
+Author: László Ádám Vámosi
+Location: Córdoba, Spain
+Date: 2025-11-15
+
+Copyright (c) 2025 László Ádám Vámosi
+All rights reserved.
+
+---
+
+Nombre de archivo: worker-viewer.css
+Autor: László Ádám Vámosi
+Ubicación: Córdoba, España
+Fecha: 2025-11-15
+
+© 2025 László Ádám Vámosi
+Todos los derechos reservados.
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f4f4f4;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    background: white;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background: #eee;
+}
+
+tr.detalle {
+    background: #fafafa;
+    font-size: 14px;
+}
+
+button {
+    cursor: pointer;
+    padding: 6px 12px;
+}
